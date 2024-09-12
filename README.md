@@ -14,12 +14,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Design, Segmentation and FW Setup/Optimization        | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> | 
 | DNS and DHCP Setup                                            | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> |
 | Asset Monitoring with Grafana & Prometheus                    | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> |
-| SIEM Implementation and Log Analysis                          | <a href="#">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection               | <a href="#">Detection Lab</a> |
+| SIEM Implementation and Log Analysis                          | <a href="https://github.com/Slayzify/DetectionLab">Detection Lab</a> |
+| Network Traffic Monitoring and Attack Detection               | <a href="https://github.com/Slayzify/DetectionLab">Detection Lab</a> |
 | Security Automation with Shuffle SOAR                         | <a href="#">SOC Automation Lab</a> |
 | Incident Response Planning and Execution                      | <a href="#">SOC Automation Lab</a> |
 | Case Management with TheHive                                  | <a href="#">SOC Automation Lab</a> |
 | Scripting and Automation for Threat Mitigation                | <a href="#">SOC Automation Lab</a> |
+| TBD                | <a href="#">SOAR EDR Project</a> |
+| TBD                | <a href="#">SOAR EDR Project</a> |
+| TBD                | <a href="#">SOAR EDR Project</a> |
 
 ## Tools
 
@@ -56,6 +59,6 @@ This is a list of home-made Python offensive tools built in order to improve my 
 ## Projects
 - Home Network Project
 - Detection Lab Project
-- SOC Automation Project
-- SOAR EDR Project
-- AD Lab Project
+- SOC Automation Project (TBD)
+- SOAR EDR Project (TBD)
+- AD Lab Project (TBD)
