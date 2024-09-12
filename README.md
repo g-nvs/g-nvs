@@ -11,9 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                                         | Associated Project         |
 |---------------------------------------------------------------|----------------------------|
-| Network Design, Segmentation and FW Setup/Optimization        | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> | 
-| DNS and DHCP Setup                                            | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> |
-| Asset Monitoring with Grafana & Prometheus                    | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> |
+| Network Design, Segmentation and FW Setup/Optimization        | <a href="https://github.com/Slayzify/NetworkLab">Home Network Project</a> | 
+| DNS and DHCP Setup                                            | <a href="https://github.com/Slayzify/NetworkLab">Home Network Project</a> |
+| Asset Monitoring with Grafana & Prometheus                    | <a href="https://github.com/Slayzify/NetworkLab">Home Network Project</a> |
 | SIEM Implementation and Log Analysis                          | <a href="https://github.com/Slayzify/DetectionLab">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection               | <a href="https://github.com/Slayzify/DetectionLab">Detection Lab</a> |
 | Security Automation with Shuffle SOAR                         | <a href="#">SOC Automation Lab</a> |
