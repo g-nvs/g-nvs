@@ -9,17 +9,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                           | Associated Project         |
-|-------------------------------------------------|----------------------------|
-| Network Design and FW Setup/Optimization        | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> | 
-| DNS and DHCP Setup                              | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> |
-| Asset Monitoring with Grafana & Prometheus      | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> |
-| SIEM Implementation and Log Analysis            | <a href="#">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="#">Detection Lab</a> |
-| Security Automation with Shuffle SOAR           | <a href="#">SOC Automation Lab</a> |
-| Incident Response Planning and Execution        | <a href="#">SOC Automation Lab</a> |
-| Case Management with TheHive                    | <a href="#">SOC Automation Lab</a> |
-| Scripting and Automation for Threat Mitigation  | <a href="#">SOC Automation Lab</a> |
+| Skill                                                         | Associated Project         |
+|---------------------------------------------------------------|----------------------------|
+| Network Design, Segmentation and FW Setup/Optimization        | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> | 
+| DNS and DHCP Setup                                            | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> |
+| Asset Monitoring with Grafana & Prometheus                    | <a href="https://github.com/Slayzify/NetworkLab/blob/main/README.md">Home Network Project</a> |
+| SIEM Implementation and Log Analysis                          | <a href="#">Detection Lab</a> |
+| Network Traffic Monitoring and Attack Detection               | <a href="#">Detection Lab</a> |
+| Security Automation with Shuffle SOAR                         | <a href="#">SOC Automation Lab</a> |
+| Incident Response Planning and Execution                      | <a href="#">SOC Automation Lab</a> |
+| Case Management with TheHive                                  | <a href="#">SOC Automation Lab</a> |
+| Scripting and Automation for Threat Mitigation                | <a href="#">SOC Automation Lab</a> |
 
 ## Tools
 
