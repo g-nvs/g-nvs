@@ -16,13 +16,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Asset Monitoring with Grafana & Prometheus                    | <a href="https://github.com/Slayzify/NetworkLab">Home Network Project</a> |
 | SIEM Implementation and Log Analysis                          | <a href="https://github.com/Slayzify/DetectionLab">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection               | <a href="https://github.com/Slayzify/DetectionLab">Detection Lab</a> |
-| Security Automation with Shuffle SOAR                         | <a href="#">SOC Automation Lab</a> |
-| Incident Response Planning and Execution                      | <a href="#">SOC Automation Lab</a> |
-| Case Management with TheHive                                  | <a href="#">SOC Automation Lab</a> |
-| Scripting and Automation for Threat Mitigation                | <a href="#">SOC Automation Lab</a> |
-| TBD                | <a href="#">SOAR EDR Project</a> |
-| TBD                | <a href="#">SOAR EDR Project</a> |
-| TBD                | <a href="#">SOAR EDR Project</a> |
+| Security Automation with Shuffle SOAR                         | <a href="#">SOC Automation Lab</a> In progress.. |
+| Incident Response Planning and Execution                      | <a href="#">SOC Automation Lab</a> In progress.. |
+| Case Management with TheHive                                  | <a href="#">SOC Automation Lab</a> In progress.. |
+| Scripting and Automation for Threat Mitigation                | <a href="#">SOC Automation Lab</a> In progress.. |
+| TBD                                                           | <a href="#">SOAR EDR Project</a> In progress.. |
+| TBD                                                           | <a href="#">AD Lab Project</a> In progress.. |
 
 ## Tools
 
@@ -62,3 +61,4 @@ This is a list of home-made Python offensive tools built in order to improve my 
 - SOC Automation Project (TBD)
 - SOAR EDR Project (TBD)
 - AD Lab Project (TBD)
+
