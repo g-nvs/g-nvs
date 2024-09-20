@@ -5,7 +5,7 @@ I am an IT professionnal with a deep interest in technology, cybersecurity and a
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity over the years, and I am now eager to transition into this field, specifically aiming to join a SOC as an Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity over the years, and I am now eager to transition into this field.
 
 ## Skills
 
