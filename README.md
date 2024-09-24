@@ -16,6 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Asset Monitoring with Grafana & Prometheus                    | <a href="https://github.com/g-nvs/NetworkLab">Home Network Project</a> |
 | SIEM Implementation and Log Analysis                          | <a href="https://github.com/g-nvs/DetectionLab">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection               | <a href="https://github.com/g-nvs/DetectionLab">Detection Lab</a> |
+| In progress..  | <a href="https://github.com/g-nvs/#">HoneyPot Lab on Azure</a> |
 | In progress..                                                           | <a href="#">SOC Automation Lab</a> In progress.. |
 | In progress..                                                           | <a href="#">SOAR EDR Project</a> In progress.. |
 | In progress..                                                           | <a href="#">AD Lab Project</a> In progress.. |
@@ -56,6 +57,7 @@ This is a list of home-made Python offensive tools built in order to improve my 
 ## Projects
 - Home Network Project
 - Detection Lab Project
+- Azure Sentinel HoneyPot Lab
 - SOC Automation Project (In progress..)
 - SOAR EDR Project (In progress..)
 - Active Directory Lab Project (In progress..)
