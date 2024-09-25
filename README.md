@@ -41,6 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src=https://img.shields.io/badge/Wazuh-blue>
     <img src=https://img.shields.io/badge/Splunk-green>
     <img src=https://img.shields.io/badge/ELK-yellow>
+    <img src=https://img.shields.io/badge/Azure%20Sentinel-blue>
 </div>
 
 ### Custom Tools
