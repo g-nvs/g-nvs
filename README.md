@@ -48,7 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 The repository below hosts a few home-made Python offensive tools built in order to improve my developpment skills in cybersecurity.
 Trying to keep them updated and adding new ones over the time.
 
-<a href="https://github.com/g-nvs/pythonlab/">
+<a href="https://github.com/g-nvs/pythonlab/"></a>
 
 ## Projects
 - Home Network Project
