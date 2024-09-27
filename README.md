@@ -45,16 +45,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ### Custom Tools
-This is a list of home-made Python offensive tools built in order to improve my developpment skills in cybersecurity.
+The repository below hosts a few home-made Python offensive tools built in order to improve my developpment skills in cybersecurity.
+Trying to keep them updated and adding new ones over the time.
 
-- <a href="https://github.com/g-nvs/pythonlab/tree/main/ARPSpoofer">ARP Spoofer</a>
-- <a href="https://github.com/g-nvs/pythonlab/tree/main/DNSSpoofer">DNS Spoofer</a>
-- <a href="https://github.com/g-nvs/pythonlab/tree/main/MACChanger">MAC Changer</a>
-- <a href="https://github.com/g-nvs/pythonlab/tree/main/NetworkScanner">Network Scanner</a>
-- <a href="https://github.com/g-nvs/pythonlab/tree/main/PacketSniffer">Packet Sniffer</a>
-- <a href="https://github.com/g-nvs/pythonlab/tree/main/FileInterceptor">File Interceptor</a>
-- <a href="https://github.com/g-nvs/pythonlab/tree/main/CodeInjector">HTTP Code Injector</a>
-- More to come..
+<a href="https://github.com/g-nvs/pythonlab/">
 
 ## Projects
 - Home Network Project
