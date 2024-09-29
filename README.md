@@ -54,7 +54,7 @@ Trying to keep them updated and adding new ones over the time.
 ## Projects
 - Home Network Project
 - Detection Lab Project
-- Azure Sentinel HoneyPot Lab
+- Azure Sentinel HoneyPot Lab Project
 - SOC Automation Project (In progress..)
 - SOAR EDR Project (In progress..)
 - Active Directory Lab Project (In progress..)
