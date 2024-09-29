@@ -18,9 +18,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network traffic monitoring and attack detection               | <a href="https://github.com/g-nvs/DetectionLab">Detection Lab</a> |
 | Understanding and configuration of Azure components and services  | <a href="https://github.com/g-nvs/HoneyPot-Azure">HoneyPot Lab on Azure</a> |
 | Log ingestion, analysis of malicious behavior and threat monitoring  | <a href="https://github.com/g-nvs/HoneyPot-Azure">HoneyPot Lab on Azure</a> |
-| In progress..                                                           | <a href="#">SOC Automation Lab</a> In progress.. |
-| In progress..                                                           | <a href="#">SOAR EDR Project</a> In progress.. |
-| In progress..                                                           | <a href="#">AD Lab Project</a> In progress.. |
+| Work in progress..                                                           | <a href="#">SOC Automation Lab</a> |
+| Work in progress..                                                           | <a href="#">SOAR EDR Project</a> |
+| Work in progress..                                                           | <a href="#">AD Lab Project</a> |
 
 ## Tools
 
@@ -55,7 +55,7 @@ Trying to keep them updated and adding new ones over the time.
 - Home Network Project
 - Detection Lab Project
 - Azure Sentinel HoneyPot Lab Project
-- SOC Automation Project (In progress..)
-- SOAR EDR Project (In progress..)
-- Active Directory Lab Project (In progress..)
+- SOC Automation Project (Coming soon..)
+- SOAR EDR Project (Coming soon..)
+- Active Directory Lab Project (Coming soon..)
 
