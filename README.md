@@ -11,12 +11,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                                         | Associated Project         |
 |---------------------------------------------------------------|----------------------------|
-| Network Design, Segmentation and FW Setup/Optimization        | <a href="https://github.com/g-nvs/NetworkLab">Home Network Project</a> | 
-| DNS and DHCP Setup                                            | <a href="https://github.com/g-nvs/NetworkLab">Home Network Project</a> |
-| Asset Monitoring with Grafana & Prometheus                    | <a href="https://github.com/g-nvs/NetworkLab">Home Network Project</a> |
-| SIEM Implementation and Log Analysis                          | <a href="https://github.com/g-nvs/DetectionLab">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection               | <a href="https://github.com/g-nvs/DetectionLab">Detection Lab</a> |
-| In progress..  | <a href="https://github.com/g-nvs/HoneyPot-Azure">HoneyPot Lab on Azure</a> |
+| Network design, segmentation and FW setup/optimization        | <a href="https://github.com/g-nvs/NetworkLab">Home Network Project</a> | 
+| DNS and DHCP setup                                            | <a href="https://github.com/g-nvs/NetworkLab">Home Network Project</a> |
+| Asset monitoring with Grafana & Prometheus                    | <a href="https://github.com/g-nvs/NetworkLab">Home Network Project</a> |
+| SIEM implementation and log analysis                          | <a href="https://github.com/g-nvs/DetectionLab">Detection Lab</a> |
+| Network traffic monitoring and attack detection               | <a href="https://github.com/g-nvs/DetectionLab">Detection Lab</a> |
+| Understanding and configuration of multiple Azure components and services  | <a href="https://github.com/g-nvs/HoneyPot-Azure">HoneyPot Lab on Azure</a> |
+| Log ingestion, analysis of malicious behavior and threat monitoring  | <a href="https://github.com/g-nvs/HoneyPot-Azure">HoneyPot Lab on Azure</a> |
 | In progress..                                                           | <a href="#">SOC Automation Lab</a> In progress.. |
 | In progress..                                                           | <a href="#">SOAR EDR Project</a> In progress.. |
 | In progress..                                                           | <a href="#">AD Lab Project</a> In progress.. |
