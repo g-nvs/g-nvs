@@ -51,6 +51,8 @@ Trying to keep them updated and adding new ones over the time. For learning purp
 
 <a href="https://github.com/g-nvs/pythonlab/">Python Lab</a>
 
+Exploration of Process Injection Techniques: <a href="https://github.com/g-nvs/ProcessInjection">Process Injection in Windows Systems</a>
+
 ## Projects
 - Home Network Project
 - Detection Lab Project
