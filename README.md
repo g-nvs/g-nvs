@@ -47,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Custom Tools
 The Python Lab repository below hosts a few home-made Python offensive tools built in order to improve my developpment skills in cybersecurity.
-Trying to keep them updated and adding new ones over the time.
+Trying to keep them updated and adding new ones over the time. For learning purpose only.
 
 <a href="https://github.com/g-nvs/pythonlab/">Python Lab</a>
 
