@@ -1,5 +1,5 @@
 # Hello there, I am Gil!
-<a href="https://www.linkedin.com/in/gil-neves"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gnvs"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT professionnal with a deep interest in technology, cybersecurity and a dedication to investigate and solve complex problems.
 
