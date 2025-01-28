@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/gnvs"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT professionnal with a deep interest in technology, cybersecurity and a dedication to investigate and solve complex problems.
+This is just a collection of projects and tools I made to try new technologies, for learning purposes, curiosity and new skills!
 
 ## Objective
 
